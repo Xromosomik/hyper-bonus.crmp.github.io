@@ -1,0 +1,496 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\ajax\libs\jquery\1.12.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.4.1/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\ajax\libs\jquery-migrate\1.4.1\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/JQuery-Snowfall/1.7.4/snowfall.jquery.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\ajax\libs\JQuery-Snowfall\1.7.4\snowfall.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.5.1.slim.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\jquery-3.5.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.7.0.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\jquery-3.7.0.min.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\index.htm
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/+ c +
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\  c  .html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/DELORELAUNCHER.exe
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\DELORELAUNCHER.exe.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/faqdonate
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\faqdonate.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/forbes
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\forbes.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/img/4.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\img\4.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/img/5.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\img\5.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/img/6.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\img\6.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/img/7.jpg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://delore-crmp.ru/posts
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\posts.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/privacy_policy
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\privacy_policy.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/profile/
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\profile\index.htm
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/profile/login
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\profile\login.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/profile/recovery
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\profile\recovery.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/images/delore-skins/15355.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\images\delore-skins\15355.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/images/delore-skins/15361.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\images\delore-skins\15361.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/images/delore-skins/15431.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\images\delore-skins\15431.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/images/delore-skins/15535.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\images\delore-skins\15535.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/images/delore-skins/15562.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\images\delore-skins\15562.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/images/delore-skins/22.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\images\delore-skins\22.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/css/style1.css
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\css\style1.css
+Content Type: text/css
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/05f0125.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\05f0125.woff2.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/1a02458.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\1a02458.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/4724902.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\4724902.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/639b3c9.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\639b3c9.woff2.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/6c4be5f.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\6c4be5f.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/7df0568.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\7df0568.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/9f73369.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\9f73369.woff2.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/b66f2d1.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\b66f2d1.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/f086a65.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\f086a65.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/fonts/f41a9bc.woff2
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\fonts\f41a9bc.woff2
+Content Type: 
+
+Uri: https://delore-crmp.ru/public/newdelore/img/03f86d8.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\03f86d8.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/04f419a.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\04f419a.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/052b314.jpg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\052b314.jpg
+Content Type: image/jpeg
+
+Uri: https://delore-crmp.ru/public/newdelore/img/099bd491.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\099bd491.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/0be0bac.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\0be0bac.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/0eb724a.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\0eb724a.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/14f8f37.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\14f8f37.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/1e19b02.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\1e19b02.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/3318580.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\3318580.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/33e5649.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\33e5649.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/36ab885.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\36ab885.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/370c81c.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\370c81c.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/3af401f.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\3af401f.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/3f573ff.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\3f573ff.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/400aa93.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\400aa93.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/41fcbd8.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\41fcbd8.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/4e1022c.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\4e1022c.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/58f1cc9.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\58f1cc9.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/58f1cc9.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\58f1cc9.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/5c1cddf.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\5c1cddf.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/5f523211.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\5f523211.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/603e05d.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\603e05d.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/60efc58.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\60efc58.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/623b960.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\623b960.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/65db042.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\65db042.png.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/img/6e20224.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\6e20224.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/6e20224.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\6e20224.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/73f73d8.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\73f73d8.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/750fec7.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\750fec7.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/78b6545.jpg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\78b6545.jpg.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/img/7a398e8.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\7a398e8.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/7e156e0.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\7e156e0.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/7e878c1.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\7e878c1.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/80ae873.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\80ae873.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/81e2e91.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\81e2e91.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/86fe0fa.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\86fe0fa.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/87e89c2.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\87e89c2.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/8b89447.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\8b89447.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/9687c19.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\9687c19.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/9c582e1.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\9c582e1.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/9d26ffa.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\9d26ffa.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/a7655f5.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\a7655f5.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/a8fec73.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\a8fec73.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/android.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\android.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/android.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\android.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/b5721ea.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\b5721ea.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/b82b40c.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\b82b40c.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/bf97826.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\bf97826.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/c299ac6.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\c299ac6.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/ca77db5.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\ca77db5.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/cbe70ec.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\cbe70ec.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/d16806f.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\d16806f.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/d3ee743.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\d3ee743.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/d3f6b5a.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\d3f6b5a.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/dd413b7.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\dd413b7.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/discord.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\discord.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/ds1.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\ds1.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/ds2.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\ds2.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/e7a6f4f.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\e7a6f4f.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/e7e4430.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\e7e4430.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/ed40b38.jpg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\ed40b38.jpg.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/img/f4b34d0.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\f4b34d0.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/f85333a.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\f85333a.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/img/f93da9c.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\f93da9c.svg.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/public/newdelore/img/fb5d078.webp
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\fb5d078.webp
+Content Type: image/webp
+
+Uri: https://delore-crmp.ru/public/newdelore/img/logo.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\logo.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/packet7.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\packet7.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/packet7_1.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\packet7_1.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/packet8.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\packet8.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/packet8_1.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\packet8_1.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/packet9.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\packet9.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/packet9_1.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\packet9_1.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/vk_auth_bg.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\vk_auth_bg.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/windows.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\windows.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/newdelore/img/windows.svg
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\img\windows.svg
+Content Type: image/svg+xml
+
+Uri: https://delore-crmp.ru/public/newdelore/js/forbes.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\js\forbes.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/public/newdelore/js/form.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\js\form.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/public/newdelore/js/login.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\js\login.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/public/newdelore/js/main.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\js\main.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/public/newdelore/js/menu.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\js\menu.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/public/newdelore/js/toast.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\newdelore\js\toast.min.js
+Content Type: application/javascript
+
+Uri: https://delore-crmp.ru/public/ny.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\ny.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/public/ny_mobile.png
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\public\ny_mobile.png
+Content Type: image/png
+
+Uri: https://delore-crmp.ru/shop
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\shop.html
+Content Type: text/html
+
+Uri: https://delore-crmp.ru/terms
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\terms.html
+Content Type: text/html
+
+Uri: https://l-rp.ru/files/DELORELAUNCHER.exe
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\files\DELORELAUNCHER.exe
+Content Type: application/octet-stream
+
+Uri: https://unpkg.com/sweetalert@2.1.2/dist/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\delore-crmp.ru\sweetalert@2.1.2\dist\sweetalert.min.js
+Content Type: application/javascript
+
